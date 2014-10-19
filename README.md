@@ -1,3 +1,5 @@
+$htmi[debug].=no_psierve($0);
+
 $0="";
 $0="========";
 $0="$htmip[nosierve_beacon_on]="no_psierveD";
